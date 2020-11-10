@@ -1,6 +1,6 @@
 {
-    "name": "Pyrogram String Session Generator Bot",
-    "description": "Modular  Telegram Bot powered by @PyroGram!",
+    "name": "Eliza String Session Generator Bot",
+    "description": "Modular  Telegram Bot powered by @PERU_MONSTER!",
     "keywords": [
         "telegram",
         "bot",
@@ -8,8 +8,8 @@
         "modular",
         "productivity"
     ],
-    "repository": "https://github.com/SpEcHiDe/SessionMakerBot",
-    "website": "https://telegram.dog/UniBorg",
+    "repository": "https://github.com/suhaash02/SessionMakerBot",
+    "website": "https://github.com/suhaash02",
     "success_url": "https://t.me/UniBorg/55",
     "env": {
         "APP_ID": {
