@@ -84,13 +84,11 @@ START_OTHER_USERS_TEXT = get_config(
     (
         "Hi. ☺️\n"
         "Thank you for using me.. enter ur phone number in international format +.... and u will receive a code enter it by giving space like if u get 12345 -send it but <>1<>2<>3<>4<>5 \n\n"
-        "This is an Open Source Project available on "
-        "https://github.com/suhaash02/Eliza\n"
-        "ℹ️ Subscribe @peru_monster if you 😍 using this bot❗️❣️"
+        "ℹ️ Subscribe @peru_monster if you using this bot"
     )
 )
 INPUT_PHONE_NUMBER = get_config("INPUT_PHONE_NUMBER", (
-    "Enter the Phone Number that you want to make awesome."
+    "Enter the Phone Number "
 ))
 RECVD_PHONE_NUMBER_DBP = get_config("RECVD_PHONE_NUMBER_DBP", (
     "checking received phone number \n\n"
